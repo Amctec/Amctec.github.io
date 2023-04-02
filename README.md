@@ -1,2 +1,2 @@
-# Amctec.github.io
+Digital Clock
 Digital Clock on JavaScript
